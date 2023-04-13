@@ -1,4 +1,3 @@
-# wilfredkihara.github.io
 
 <!DOCTYPE html>
 <html>
